@@ -1,4 +1,4 @@
-# README
+# Home
 
 
 ## repo 介绍
@@ -10,7 +10,8 @@
   记录一些细节性的代码
   
 ## 技术记录
-[iterator_traits](./interator_traits.md)
+1. [STL类型萃取 iterator_traits](./interator_traits.md)
+2. [业务数据存储架构选型](./buz_data_store_structure.md)
 待续
 
 
