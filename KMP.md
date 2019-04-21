@@ -33,5 +33,7 @@ public static int[] getNext(String ps) {
 ```
 
 1 关键词：PMT
+
 2 getNext其实就是一个PMT计算过程
+
 3 A前缀，M、N任意串，x、y两个字符。AMx 和 NAy 当x!=y时，子串从y调到m的第一个字符那里
