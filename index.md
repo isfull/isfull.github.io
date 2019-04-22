@@ -16,6 +16,9 @@
 2. [柔性union成员 & STL union obj](./FlexibleArray.md)
 3. [c语言：语言歧义导致的各种技巧和细节](./fucking_c.md)
 
+### 算法理解
+1. [理解KMP的关键](./KMP.md)
+
 ### 架构设计
 1. [业务数据存储架构选型](./buz_data_store_structure.md)
 
