@@ -1,5 +1,6 @@
 # Home
 
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 
 ## repo 介绍
 1. longshort
