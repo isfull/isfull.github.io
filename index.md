@@ -12,18 +12,20 @@
   
 ## 技术记录
 
-### 语言细节
+### ☆语言细节
 1. [STL类型萃取 iterator_traits](./interator_traits.md)
 2. [柔性union成员 & STL union obj](./FlexibleArray.md)
 3. [c语言：语言歧义导致的各种技巧和细节](./fucking_c.md)
 
-### 算法理解
+### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
 
-### 架构设计
+### ☆架构设计
 1. [业务数据存储架构选型](./buz_data_store_structure.md)
 
 待续
 
 
+### Ads.
+<a href="https://www.vultr.com/?ref=7212564"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
