@@ -23,9 +23,9 @@
 ### ☆架构设计
 1. [业务数据存储架构选型](./buz_data_store_structure.md)
 
-待续
+### 待续
 
-
-### Ads.
+<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+## Ads.
 <a href="https://www.vultr.com/?ref=7212564"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
