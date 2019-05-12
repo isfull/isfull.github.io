@@ -12,7 +12,8 @@ union _Obj {
 };
 static _Obj* __STL_VOLATILE _S_free_list[_NFREELISTS];  // 注意，它是数组，每个数组元素包含若干相等的小额区块
  ```
-柔性union成员地址就是变量地址
+ 
+### 柔性union成员地址就是变量地址
 https://blog.csdn.net/hx_lfeng/article/details/78163361
 
 ### 柔性数组成员
