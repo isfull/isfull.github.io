@@ -13,9 +13,10 @@
 ## 技术记录
 
 ### ☆语言细节
-1. [STL类型萃取 iterator_traits](./interator_traits.md)
-2. [柔性union成员 & STL union obj](./FlexibleArray.md)
+1. [STL:类型萃取 iterator_traits](./interator_traits.md)
+2. [STL:柔性union成员 & STL union obj](./FlexibleArray.md)
 3. [c语言：语言歧义导致的各种技巧和细节](./fucking_c.md)
+4. [linux下JNI和JNA学习](./linux下JNI和JNA学习.md)
 
 ### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
