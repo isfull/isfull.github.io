@@ -17,6 +17,7 @@
 2. [STL:柔性union成员 & STL union obj](./FlexibleArray.md)
 3. [c语言：语言歧义导致的各种技巧和细节](./fucking_c.md)
 4. [linux下JNI和JNA学习](./linux下JNI和JNA学习.md)
+5. 
 
 ### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
@@ -26,7 +27,8 @@
 2. [排行榜设计](./排行榜设计.md)
 
 ### ☆代码管理
-1. [git submodule在团队开发中的应用与常见问题](./git_submodule在团队开发中的应用与常见问题.md)
+1. [git常用命令.md](./git常用命令.md)
+2. [git submodule在团队开发中的应用与常见问题](./git_submodule在团队开发中的应用与常见问题.md)
 
 ## 待续
 
