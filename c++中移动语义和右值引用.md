@@ -23,3 +23,8 @@ X&&                                 yes
 const X&&                           yes      yes          无用
 ```
 所以, 右值引用其实就是一种引用类型, 但它仅能绑定在右值上
+
+C++11在<utility>头文件中加入了std::move，把左值变成右值
+```
+unique_ptr<std::string> c(std::move(a));
+```
