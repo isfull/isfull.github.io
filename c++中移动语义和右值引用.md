@@ -28,3 +28,36 @@ C++11在<utility>头文件中加入了std::move，把左值变成右值
 ```
 unique_ptr<std::string> c(std::move(a));
 ```
+
+
+## int & &&降格到int &的类型推导过程, 被称为collapsed
+```
+#include <iostream>
+
+template<typename T>
+void foo(T&& t) { // 右值引用定义
+    std::cout << t << std::endl;
+}
+
+int main(void) {
+    foo(23);
+
+    foo("i love you");
+
+    int a = 2333;
+
+    foo(a);         // <-- 可以使用一个左值去调用foo模板函数!
+    return 0;
+}
+```
+
+如何强制定义只能右值引用传值
+```
+template<typename T>
+typename std::enable_if<std::is_rvalue_reference<T&&>::value, void>::type
+foo(T&& t) {
+    std::cout << t << std::endl;
+}
+```
+在模板参数的类型推导中, 有一个特殊逻辑叫collapsed, std::move的实现就与这个特性有关
+
