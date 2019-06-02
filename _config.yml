@@ -3,6 +3,7 @@ deploy:
     type: git
     repository: https://github.com/isfull/isfull.github.io.git
     branch: master
-
+title: mohosojo
+description: record what I learn, short for knowledge
 
 # https://github.com/pages-themes
