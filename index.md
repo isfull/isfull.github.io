@@ -1,6 +1,6 @@
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 
-## Repositories介绍
+### 个人Repo介绍
 1. longshort
   [longshort](https://github.com/isfull/longshort)
   记录些小项目，百度的goodcoder、leetcode、其它
