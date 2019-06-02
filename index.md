@@ -1,4 +1,3 @@
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 
 ### 个人Repo介绍
 1. longshort
@@ -39,6 +38,7 @@
 
 <hr style=" height:2px;border:none;border-top:2px #185598;" />
 <br/>
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 <br/>
 
 
