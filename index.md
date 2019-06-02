@@ -6,7 +6,8 @@
 2. mohosojo
   [mohosojo](https://github.com/isfull/mohosojo)
   记录一些细节性的代码
-  
+<hr style=" height:1px;border:none;border-top:2px #185598;" />
+
 ## 技术记录
 
 ### ☆语言细节
@@ -36,7 +37,7 @@
 
 ## 待续
 
-<hr style=" height:2px;border:none;border-top:2px #185598;" />
+<hr style=" height:1px;border:none;border-top:2px #185598;" />
 <br/>
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 <br/>
