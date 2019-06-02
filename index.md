@@ -1,8 +1,6 @@
-# Home
-
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
 
-## repo 介绍
+## Repositories介绍
 1. longshort
   [longshort](https://github.com/isfull/longshort)
   记录些小项目，百度的goodcoder、leetcode、其它
@@ -25,10 +23,17 @@
 ### ☆业务设计
 1. [业务数据存储架构选型](./buz_data_store_structure.md)
 2. [排行榜设计](./排行榜设计.md)
+3. [特性开关](./特性开关.md)
 
 ### ☆代码管理
 1. [git常用命令.md](./git常用命令.md)
 2. [git submodule在团队开发中的应用与常见问题](./git_submodule在团队开发中的应用与常见问题.md)
+
+### ☆linux系统
+1. [Linux虚拟地址空间布局以及进程栈和线程栈总结](./Linux虚拟地址空间布局以及进程栈和线程栈总结.md)
+
+### ☆工具使用
+1.[scrapy执行过程](./scrapy执行过程.md)
 
 ## 待续
 
