@@ -38,7 +38,7 @@
 
 ## 其他记录
 1. [情绪控制](./dir_mind/情绪控制.md)
-
+2. [影响力](./dir_mind/影响力.md)
 ## 待续
 
 <hr style=" height:1px;border:none;border-top:2px #185598;" />
