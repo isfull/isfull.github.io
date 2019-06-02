@@ -34,6 +34,10 @@
 
 ### ☆工具使用
 1. [scrapy执行过程](./scrapy执行过程.md)
+<hr style=" height:1px;border:none;border-top:2px #185598;" />
+
+## 其他记录
+1. [情绪控制](./dir_mind/情绪控制.md)
 
 ## 待续
 
