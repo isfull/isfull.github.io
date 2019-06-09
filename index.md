@@ -29,6 +29,7 @@
 ### ☆代码管理
 1. [git常用命令.md](./git常用命令.md)
 2. [git submodule在团队开发中的应用与常见问题](./git_submodule在团队开发中的应用与常见问题.md)
+3. [gtest使用](./gtest使用.md)
 
 ### ☆linux系统
 1. [Linux虚拟地址空间布局以及进程栈和线程栈总结](./Linux虚拟地址空间布局以及进程栈和线程栈总结.md)
