@@ -36,6 +36,7 @@
 
 ### ☆工具使用
 1. [scrapy执行过程](./scrapy执行过程.md)
+2. [常用数据处理shell命令](./常用数据处理shell命令.md)
 <hr style=" height:1px;border:none;border-top:2px #185598;" />
 
 ## 其他记录
