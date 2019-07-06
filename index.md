@@ -50,6 +50,6 @@
 
 
 ## Ads.
-<a href="https://cloud.tencent.com/redirect.php?redirect=1040&cps_key=847a84f8620d71cda2b8f4853946b3f9&from=console"><img src="https://upload-dianshi-1255598498.file.myqcloud.com/345x200--2953d058277cb63c6b1cd127285163335cd6751e.jpg" width="468" height="60"></a>
+<a href="https://cloud.tencent.com/redirect.php?redirect=1040&cps_key=847a84f8620d71cda2b8f4853946b3f9&from=console"><img src="https://main.qcloudimg.com/raw/c6958cbe54c361310d1e1800e777d5a9.jpg" width="468" height="60"></a>
 <a href="https://www.vultr.com/?ref=7212564"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
