@@ -17,7 +17,8 @@
 3. [c语言：语言歧义导致的各种技巧和细节](./fucking_c.md)
 4. [linux下JNI和JNA学习](./linux下JNI和JNA学习.md)
 5. [c++11中移动语义和右值引用](./c++11中移动语义和右值引用.md)
-6. [深入理解c++11(转)](https://blog.csdn.net/zhzdeng/article/details/77326947#%E7%A7%BB%E5%8A%A8%E8%AF%AD%E4%B9%89)
+6. [c++11以后的字符串处理.md](./c++11以后的字符串处理.md)
+7. [深入理解c++11(转)](https://blog.csdn.net/zhzdeng/article/details/77326947#%E7%A7%BB%E5%8A%A8%E8%AF%AD%E4%B9%89)
 
 ### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
