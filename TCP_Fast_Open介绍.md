@@ -6,6 +6,9 @@
 第一次完整连接 + 短时间内 = 二次连接大概率不出问题
 通过减少一次RTT提升短连接效率
 ```
+<img src="./img/TFO1.jpg">
+<img src="./img/TFO2.jpg">
+<img src="./img/TFO3.jpg">
 
 ### 内核启用
 TFO功能在Linux 3.7 内核中开始集成，因此RHEL7/CentOS7是支持的，但默认没有开启，使用以下方式开启：
