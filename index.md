@@ -23,6 +23,7 @@
 5. [c++11中移动语义和右值引用](./c++11中移动语义和右值引用.md)
 6. [c++11以后的字符串处理](./c++11以后的字符串处理.md)
 7. [深入理解c++11(转)](https://blog.csdn.net/zhzdeng/article/details/77326947#%E7%A7%BB%E5%8A%A8%E8%AF%AD%E4%B9%89)
+8. [how to use epoll with python(转)](http://scotdoyle.com/python-epoll-howto.html)
 
 ### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
@@ -34,6 +35,7 @@
 
 ### ☆代码管理
 >[谷歌编码规范（中文）](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
+
 >[谷歌编码规范（英文）](https://google.github.io/styleguide/cppguide.html)
 
 1. [git常用命令.md](./git常用命令.md)
@@ -43,11 +45,15 @@
 ### ☆linux系统
 1. [Linux虚拟地址空间布局以及进程栈和线程栈总结](./Linux虚拟地址空间布局以及进程栈和线程栈总结.md)
 2. [TCP_Fast_Open介绍](./TCP_Fast_Open介绍.md)
+3. [socket中SO_REUSEADDR的意义](./socket中SO_REUSEADDR的意义.md)
 
 ### ☆工具使用
 1. [scrapy执行过程](./scrapy执行过程.md)
 2. [常用数据处理shell命令](./常用数据处理shell命令.md)
 <hr style=" height:1px;border:none;border-top:2px #185598;" />
+
+### 业务知识
+1. [google abtest论文](http://www.flickering.cn/uncategorized/2015/01/%E9%87%8D%E5%8F%A0%E5%AE%9E%E9%AA%8C%E5%B9%B3%E5%8F%B0%EF%BC%9A%E6%9B%B4%E5%A4%9A%EF%BC%8C%E6%9B%B4%E5%A5%BD%EF%BC%8C%E6%9B%B4%E5%BF%AB%E5%9C%B0%E5%AE%9E%E9%AA%8C/)
 
 ## 其他记录
 1. [情绪控制](./dir_mind/情绪控制.md)
