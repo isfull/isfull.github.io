@@ -2,14 +2,12 @@
 
 <hr style=" height:1px;border:none;border-top:2px #185598;" />
 
-### 个人Repo介绍
+#### 个人Repo介绍
 
-1. longshort
-  [longshort](https://github.com/isfull/longshort)
+1. [longshort](https://github.com/isfull/longshort)
   记录些小项目，百度的goodcoder、leetcode、其它
   
-2. mohosojo
-  [mohosojo](https://github.com/isfull/mohosojo)
+2. [mohosojo](https://github.com/isfull/mohosojo)
   记录一些细节性的代码
 <hr style=" height:1px;border:none;border-top:2px #185598;" />
 
@@ -27,6 +25,7 @@
 
 ### ☆算法理解
 1. [理解KMP的关键](./KMP.md)
+2. [理解paxos等分布式协议](./理解paxos等分布式协议.md)
 
 ### ☆业务设计
 1. [业务数据存储架构选型](./buz_data_store_structure.md)
