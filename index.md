@@ -58,11 +58,16 @@
 1. [情绪控制](./dir_mind/情绪控制.md)
 2. [影响力](./dir_mind/影响力.md)
 
-<hr style=" height:1px;border:none;border-top:2px #185598;" />
-<br/>
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3230826&c=9692791" alt="AmazingCounters.com"></a></div>
-<br/>
 
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=7122310&style=0024&nbdigits=7&type=page&initCount=100" title="" Alt=""   border="0" >
+</a>
+<br/>
+<!-- hitwebcounter.com -->
+<a href="http://www.hitwebcounter.com" title="" target="_blank" style="font-family: ; font-size: px; color: #; text-decoration:  ;"><>   </>
+</a>   
+                              
 
 ## Ads.
 <a href="https://cloud.tencent.com/redirect.php?redirect=1040&cps_key=847a84f8620d71cda2b8f4853946b3f9&from=console"><img src="https://main.qcloudimg.com/raw/7011817640afc17479d174a18da8b0df.jpg" width="468" height="60"></a>
