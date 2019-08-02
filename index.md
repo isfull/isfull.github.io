@@ -58,15 +58,12 @@
 1. [情绪控制](./dir_mind/情绪控制.md)
 2. [影响力](./dir_mind/影响力.md)
 
+<hr />
 
 <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7122310&style=0024&nbdigits=7&type=page&initCount=100" title="" Alt=""   border="0" >
+<img src="http://hitwebcounter.com/counter/counter.php?page=7122313&style=0001&nbdigits=8&type=page&initCount=0" title="" Alt=""   border="0" >
 </a>
-<br/>
-<!-- hitwebcounter.com -->
-<a href="http://www.hitwebcounter.com" title="" target="_blank" style="font-family: ; font-size: px; color: #; text-decoration:  ;"><>   </>
-</a>   
                               
 
 ## Ads.
