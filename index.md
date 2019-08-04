@@ -24,6 +24,9 @@
 8. [how to use epoll with python(转)](http://scotdoyle.com/python-epoll-howto.html)
 
 ### ☆算法理解
+
+[※leetcode](./leetcode/index.md)
+
 1. [理解KMP的关键](./KMP.md)
 2. [理解paxos等分布式协议](./理解paxos等分布式协议.md)
 
