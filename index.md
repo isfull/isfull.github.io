@@ -58,6 +58,7 @@
 
 ### 业务知识
 1. [google abtest论文](http://www.flickering.cn/uncategorized/2015/01/%E9%87%8D%E5%8F%A0%E5%AE%9E%E9%AA%8C%E5%B9%B3%E5%8F%B0%EF%BC%9A%E6%9B%B4%E5%A4%9A%EF%BC%8C%E6%9B%B4%E5%A5%BD%EF%BC%8C%E6%9B%B4%E5%BF%AB%E5%9C%B0%E5%AE%9E%E9%AA%8C/)
+2. [Faas](./cloud_computing/Faas.md)
 
 ## 其他记录
 1. [情绪控制](./dir_mind/情绪控制.md)
